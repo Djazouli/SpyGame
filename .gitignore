@@ -13,7 +13,7 @@ yarn.lock
 package-lock.json
 /.pnp
 .pnp.js
-
+favicon.ico
 # testing
 /coverage
 
@@ -33,7 +33,7 @@ yarn-error.log*
 
 # Front
 build
-static
+static/frontend
 
 # Back
 venv
